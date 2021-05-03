@@ -14,7 +14,7 @@ tutorials address each of these topics in greater detail.
 
 We begin by importing the necessary Python modules:
 """
-
+# %%
 import os
 import numpy as np
 import mne
@@ -368,3 +368,6 @@ stc.plot(initial_time=0.1, hemi='split', views=['lat', 'med'],
 # .. LINKS
 #
 # .. _`autoreject package`: http://autoreject.github.io/
+
+
+# %%
