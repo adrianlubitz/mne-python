@@ -86,3 +86,4 @@ cover
 .venv/
 venv/
 *.json
+*.py-*.ipynb
